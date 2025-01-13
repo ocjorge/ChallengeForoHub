@@ -159,9 +159,3 @@ FórumHub es una API RESTful desarrollada con Spring Boot que permite la gestió
 
 Para probar la API, se pueden utilizar herramientas como Postman o Insomnia. Asegúrate de incluir el token JWT en el encabezado `Authorization` de las solicitudes que requieren autenticación.
 
-## Ejecución
-
-Para ejecutar la aplicación, utiliza el siguiente comando en la raíz del proyecto:
-
-```sh
-mvn spring-boot\:run
